@@ -1,0 +1,325 @@
+﻿sort,pages_source,niveau,statut,priorite_relecture,anomalies,caracteres_description
+Agrandissement/Rapetissement,239,2,ocr_non_valide,élevée,titre_incertain,1201
+Aide,239,2,ocr_non_valide,élevée,encadre_statistiques_a_controler,288
+Amélioration de Caractéristique,240,2,ocr_non_valide,élevée,champ_absent:incantation,415
+Animation des Morts,240,3,ocr_non_valide,élevée,champ_absent:duree,1039
+Animation des Objets,"240,241",5,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,2301
+Boule de Feu à Retardement,250,7,ocr_non_valide,élevée,champ_absent:duree,366
+Caresse du Vampire,251,3,ocr_non_valide,élevée,encadre_statistiques_a_controler,282
+Cercle Magique,251,3,ocr_non_valide,élevée,symboles_suspects,1116
+Changement de Forme,253,9,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects,1103
+Changement de Plan,"253,254",7,ocr_non_valide,élevée,champ_absent:incantation | symboles_suspects | suite_plusieurs_pages,1321
+Châtiment de Courroux,254,1,ocr_non_valide,élevée,champ_absent:incantation,391
+Châtiment divin,"254,255",1,ocr_non_valide,élevée,champ_absent:incantation | suite_plusieurs_pages,350
+Châtiment du Ban,254,5,ocr_non_valide,élevée,encadre_statistiques_a_controler,777
+Clairvoyance,257,3,ocr_non_valide,élevée,champ_absent:incantation,763
+Communication à Distance,258,3,ocr_non_valide,élevée,champ_absent:incantation,927
+Communion avec la Nature,259,5,ocr_non_valide,élevée,symboles_suspects,671
+Confusion,260,4,ocr_non_valide,élevée,symboles_suspects,1192
+Contact Glacial,261,0,ocr_non_valide,élevée,encadre_statistiques_a_controler,394
+Contamination,261,6,ocr_non_valide,élevée,encadre_statistiques_a_controler,404
+Convocation D'Aberration,"263,264",4,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler | symboles_suspects | profil_de_creature_completude_a_controler | suite_plusieurs_pages,3919
+Convocation D'Artificiel,264,4,ocr_non_valide,élevée,profil_de_creature_completude_a_controler,931
+Convocation D'Élémentaire,"266,267",4,ocr_non_valide,élevée,champ_absent:incantation | profil_de_creature_completude_a_controler | suite_plusieurs_pages,3665
+Convocation de Bête,"264,265",2,ocr_non_valide,élevée,profil_de_creature_completude_a_controler | suite_plusieurs_pages,1941
+Convocation de Céleste,265,5,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects | profil_de_creature_completude_a_controler,2153
+Convocation de Dragon,266,5,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects | profil_de_creature_completude_a_controler,660
+Convocation de Fiélon,"268,269",6,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects | profil_de_creature_completude_a_controler | suite_plusieurs_pages,2570
+Convocation de Fée,"267,268",3,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects | profil_de_creature_completude_a_controler | suite_plusieurs_pages,2112
+Convocation de Mort-Vivant,"269,270",3,ocr_non_valide,élevée,encadre_statistiques_a_controler | profil_de_creature_completude_a_controler | suite_plusieurs_pages,2393
+Convocations Instantanées de Drawmij,270,6,ocr_non_valide,élevée,profil_de_creature_completude_a_controler,752
+Couleurs Dansantes,"270,271",1,ocr_non_valide,élevée,champ_absent:incantation | suite_plusieurs_pages,876
+Crosse des Druides,273,0,ocr_non_valide,élevée,champ_absent:incantation,668
+Dissipation du Mal et du Bien,"277,278",5,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,1460
+Doigt de Mort,278,7,ocr_non_valide,élevée,champ_absent:incantation,352
+Doux Repos,279,2,ocr_non_valide,élevée,champ_absent:incantation,383
+Druidisme,"279,280",0,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | suite_plusieurs_pages,1460
+Détection de la Magie,"274,275",1,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | champ_absent:composantes | classes_manquantes | suite_plusieurs_pages,241
+Détection du Mal et du Bien,275,1,ocr_non_valide,élevée,champ_absent:incantation,388
+Emprisonnement,"281,282",9,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,2213
+Enchevêtrement,"282,283",1,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:duree | classes_manquantes | titre_incertain | suite_plusieurs_pages,2330
+Faux Amis,285,0,ocr_non_valide,élevée,champ_absent:incantation,622
+Festin des Héros,"285,286",6,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,875
+Fléau D'Insectes,286,5,ocr_non_valide,élevée,classes_manquantes,720
+Fracassement,289,2,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee,513
+Frappe du Vent D'Acier,290,5,ocr_non_valide,élevée,symboles_suspects,428
+Frappe Piégeuse,"289,290",1,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:composantes | champ_absent:duree | suite_plusieurs_pages,180
+Glas,291,0,ocr_non_valide,élevée,champ_absent:incantation,493
+Glyphe de garde,"291,292",3,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | champ_absent:composantes | champ_absent:duree | suite_plusieurs_pages,1399
+Guérison,292,6,ocr_non_valide,élevée,encadre_statistiques_a_controler,319
+Guérison de Groupe,"292,293",9,ocr_non_valide,élevée,champ_absent:composantes | suite_plusieurs_pages,710
+Héroïsme,293,1,ocr_non_valide,élevée,encadre_statistiques_a_controler,420
+Illusion mineure,"293,294",0,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | champ_absent:composantes | champ_absent:duree | symboles_suspects | suite_plusieurs_pages,260
+Illusion Programmée,294,6,ocr_non_valide,élevée,symboles_suspects,1179
+Immobilisation de monstre,"295,296",5,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,833
+Injonction,"296,297",1,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler | symboles_suspects | suite_plusieurs_pages,2964
+Invocation d’animaux,"297,298",3,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,2298
+Liane Avide,"299,300",4,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,1560
+Localisation D'Objet,"300,301",2,ocr_non_valide,élevée,champ_absent:incantation | symboles_suspects | suite_plusieurs_pages,750
+Localisation de Créature,300,4,ocr_non_valide,élevée,champ_absent:incantation,760
+Lueur D'Espoir,301,3,ocr_non_valide,élevée,encadre_statistiques_a_controler,243
+Lumière du Jour,"301,302",3,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,758
+Main de Bigby,"302,303",5,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,1546
+Maléfice,"303,304",1,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | suite_plusieurs_pages,798
+Modification D'Apparence,307,2,ocr_non_valide,élevée,encadre_statistiques_a_controler,1427
+Monture Fantôme,"308,309",3,ocr_non_valide,élevée,champ_absent:incantation | suite_plusieurs_pages,859
+Moquerie Cruelle,309,0,ocr_non_valide,élevée,champ_absent:incantation,447
+Mot de Guérison,309,1,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler,252
+Mot de Guérison de Groupe,309,3,ocr_non_valide,élevée,encadre_statistiques_a_controler,270
+Mot de Pouvoir Fortifiant,310,7,ocr_non_valide,élevée,encadre_statistiques_a_controler,164
+Mot de Pouvoir Guérisseur,310,9,ocr_non_valide,élevée,encadre_statistiques_a_controler,291
+Mot de Pouvoir Mortel,310,9,ocr_non_valide,élevée,encadre_statistiques_a_controler,188
+Mot de Pouvoir Étourdissant,309,8,ocr_non_valide,élevée,encadre_statistiques_a_controler | symboles_suspects,137
+Mur de Glace,311,6,ocr_non_valide,élevée,encadre_statistiques_a_controler,1354
+Mur de Pierre,"311,312",5,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler | suite_plusieurs_pages,1651
+Mur Prismatique,312,9,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler,3519
+Murmures Dissonants,313,1,ocr_non_valide,élevée,champ_absent:incantation,513
+Métal Brülant,"305,306",2,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,648
+Métamorphose,306,4,ocr_non_valide,élevée,encadre_statistiques_a_controler,1198
+Métamorphose Animale,306,8,ocr_non_valide,élevée,encadre_statistiques_a_controler,1189
+Métamorphose Suprême,"306,307",9,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,2304
+Nuage Nauséabond,"313,314",3,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,1248
+Orientation,314,6,ocr_non_valide,élevée,champ_absent:incantation,602
+Parole Divine,"314,315",7,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler | suite_plusieurs_pages,992
+Piqûre mentale,"317,318",0,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:portee | suite_plusieurs_pages,467
+Poigne Électrique,318,0,ocr_non_valide,élevée,champ_absent:incantation,401
+Portail,318,9,ocr_non_valide,élevée,symboles_suspects,1353
+Possession,319,6,ocr_non_valide,élevée,encadre_statistiques_a_controler,2439
+Prière de Guérison,320,2,ocr_non_valide,élevée,encadre_statistiques_a_controler,393
+Projectile Magique,320,1,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler,422
+Protection contre le Poison,321,2,ocr_non_valide,élevée,champ_absent:incantation,249
+Préméditation,"319,320",6,ocr_non_valide,élevée,symboles_suspects | suite_plusieurs_pages,904
+Présence Royale de Yolane,320,5,ocr_non_valide,élevée,champ_absent:incantation,612
+Pétrification,317,6,ocr_non_valide,élevée,champ_absent:incantation,963
+Rayon Affaiblissant,323,2,ocr_non_valide,élevée,champ_absent:incantation | symboles_suspects,852
+Restauration Partielle,326,2,ocr_non_valide,élevée,champ_absent:incantation | champ_absent:composantes,129
+Résurrection,"326,327",7,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,1651
+Sanctification,327,5,ocr_non_valide,élevée,symboles_suspects,1851
+Simulacre,329,7,ocr_non_valide,élevée,encadre_statistiques_a_controler,1311
+Simulacre de Vie,"329,330",1,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,450
+Soins de Groupe,330,5,ocr_non_valide,élevée,champ_absent:incantation | encadre_statistiques_a_controler,378
+Songe,330,5,ocr_non_valide,élevée,champ_absent:incantation,1165
+Souffle du Dragon,"330,331",2,ocr_non_valide,élevée,encadre_statistiques_a_controler | suite_plusieurs_pages,4440
+Sphère de feu,"331,332",2,ocr_non_valide,élevée,champ_absent:incantation | suite_plusieurs_pages,1111
+Sphère Glacée d Otiluke,332,6,ocr_non_valide,élevée,champ_absent:incantation | symboles_suspects,1497
+Suggestion de Groupe,333,6,ocr_non_valide,élevée,champ_absent:incantation | classes_manquantes | titre_incertain,1073
+Tempête de Neige,335,3,ocr_non_valide,élevée,champ_absent:incantation,496
+Tentacules de Hadar,"337,338",1,ocr_non_valide,élevée,champ_absent:incantation | symboles_suspects | suite_plusieurs_pages,587
+Tentacules Noirs D'Evard,338,4,ocr_non_valide,élevée,symboles_suspects,774
+Terrain Hallucinatoire,"338,339",4,ocr_non_valide,élevée,champ_absent:incantation | suite_plusieurs_pages,2006
+Tsunami,341,8,ocr_non_valide,élevée,champ_absent:incantation,1264
+Ténèbres,337,2,ocr_non_valide,élevée,symboles_suspects,708
+Vif Carquois,342,5,ocr_non_valide,élevée,champ_absent:incantation,450
+Vigueur Arcanique,342,2,ocr_non_valide,élevée,encadre_statistiques_a_controler,391
+Voracité de Hadar,343,3,ocr_non_valide,élevée,champ_absent:incantation,920
+Zone de Vérité,343,2,ocr_non_valide,élevée,champ_absent:incantation,656
+État Cadavérique,284,3,ocr_non_valide,élevée,symboles_suspects,1221
+Œil du Mage,314,4,ocr_non_valide,élevée,champ_absent:incantation,357
+Alarme,239,1,ocr_non_valide,normale,,724
+Aliénation,239,8,ocr_non_valide,normale,,509
+Allié Planaire,"239,240",6,ocr_non_valide,normale,suite_plusieurs_pages,1579
+Amitié avec les Animaux,240,1,ocr_non_valide,normale,,393
+Antidétection,241,3,ocr_non_valide,normale,,314
+Apaisement des Émotions,241,2,ocr_non_valide,normale,,726
+Apparence Trompeuse,"241,242",5,ocr_non_valide,normale,suite_plusieurs_pages,648
+Bouclier de la Foi,250,1,ocr_non_valide,normale,,132
+Bouffée de Poison,250,0,ocr_non_valide,normale,,304
+Boule de Feu,250,3,ocr_non_valide,normale,,536
+Bourrasque,250,2,ocr_non_valide,normale,,824
+Brume Mortelle,"250,251",5,ocr_non_valide,normale,suite_plusieurs_pages,629
+Cage de Force,251,7,ocr_non_valide,normale,,1375
+Cercle de Mort,252,6,ocr_non_valide,normale,,391
+Cercle de Pouvoir,252,5,ocr_non_valide,normale,,446
+Cercle de Téléportation,252,5,ocr_non_valide,normale,,1000
+Champ Antimagie,"252,253",8,ocr_non_valide,normale,suite_plusieurs_pages,1137
+Charme-Personne,254,1,ocr_non_valide,normale,,516
+Chaudron bouillonnant de Tasha,256,6,ocr_non_valide,normale,,1076
+Chaîne D'Éclairs,252,6,ocr_non_valide,normale,,608
+Chien de Garde de Mordenkainen,"256,257",4,ocr_non_valide,normale,suite_plusieurs_pages,818
+Châtiment de Fournaise,255,1,ocr_non_valide,normale,,424
+Châtiment de révélation,255,2,ocr_non_valide,normale,,331
+Châtiment de stupeur,"255,256",4,ocr_non_valide,normale,suite_plusieurs_pages,298
+Châtiment de Tonnerre,256,1,ocr_non_valide,normale,,393
+Clignotement,257,3,ocr_non_valide,normale,,1725
+Coffre Secret de Léomund,"257,258",4,ocr_non_valide,normale,suite_plusieurs_pages,1361
+Communication avec les Animaux,258,1,ocr_non_valide,normale,,429
+Communication avec les Morts,258,3,ocr_non_valide,normale,,995
+Communication avec les Plantes,"258,259",3,ocr_non_valide,normale,suite_plusieurs_pages,175
+Communion,259,5,ocr_non_valide,normale,,830
+Compréhension des Langues,259,1,ocr_non_valide,normale,,335
+Compulsion,259,4,ocr_non_valide,normale,,525
+Contact avec les Plans,261,5,ocr_non_valide,normale,,864
+Contagion,261,5,ocr_non_valide,normale,,609
+Contresort,261,3,ocr_non_valide,normale,,329
+Contrôle de L'Eau,"262,263",4,ocr_non_valide,normale,suite_plusieurs_pages,2934
+Contrôle du Climat,"261,262",8,ocr_non_valide,normale,suite_plusieurs_pages,874
+Coquille Antivie,270,5,ocr_non_valide,normale,,1320
+Cordon de Flèches,270,2,ocr_non_valide,normale,,877
+Coup de Tonnerre,271,0,ocr_non_valide,normale,,359
+Couronne du Dément,271,2,ocr_non_valide,normale,,748
+Couteau de Glace,271,1,ocr_non_valide,normale,,530
+Croissance D'Épines,"272,273",2,ocr_non_valide,normale,suite_plusieurs_pages,1535
+Création,"271,272",5,ocr_non_valide,normale,suite_plusieurs_pages,502
+Création de Mort-Vivant,272,6,ocr_non_valide,normale,,1338
+Création de Nourriture et D'Eau,272,3,ocr_non_valide,normale,,344
+Création ou Destruction D'Eau,272,1,ocr_non_valide,normale,,613
+Cécité/Surdité,251,2,ocr_non_valide,normale,,410
+Cône de Froid,260,5,ocr_non_valide,normale,,408
+Danse Irrésistible D'Otto,273,6,ocr_non_valide,normale,,244
+Demi-Plan,274,8,ocr_non_valide,normale,,524
+Discours Captivant,"275,276",2,ocr_non_valide,normale,suite_plusieurs_pages,529
+Disque flottant de Tenser,276,1,ocr_non_valide,normale,,958
+Dissimulation Suprême,276,7,ocr_non_valide,normale,,700
+Dissipation de la Magie,277,5,ocr_non_valide,normale,,618
+Domination de Bête,278,4,ocr_non_valide,normale,,1825
+Domination de Personne,"278,279",5,ocr_non_valide,normale,suite_plusieurs_pages,1210
+Don des Langues,279,3,ocr_non_valide,normale,,354
+Double Illusoire,279,5,ocr_non_valide,normale,,250
+Déblocage,273,2,ocr_non_valide,normale,,603
+Décharge Occulte,273,0,ocr_non_valide,normale,,488
+Déguisement,274,1,ocr_non_valide,normale,,857
+Délivrance des Malédictions,274,3,ocr_non_valide,normale,,290
+Désintégration,274,6,ocr_non_valide,normale,,908
+Détection de L'Invisibilité,274,2,ocr_non_valide,normale,,209
+Détection des Pensées,275,2,ocr_non_valide,normale,,1836
+Détection du Poison et des Maladies,275,1,ocr_non_valide,normale,,359
+Embruns Prismatiques,"280,281",7,ocr_non_valide,normale,suite_plusieurs_pages,1526
+Esprits Gardiens,284,3,ocr_non_valide,normale,,1034
+Fabrication,284,4,ocr_non_valide,normale,,1015
+Faveur divine,285,1,ocr_non_valide,normale,,118
+Façonnage de la Pierre,"284,285",4,ocr_non_valide,normale,suite_plusieurs_pages,635
+Feuille morte,286,1,ocr_non_valide,normale,Sort récupéré manuellement depuis la page source | contrôle global du lot restant nécessaire.,258
+Flamme Sacrée,286,0,ocr_non_valide,normale,,394
+Flamme Éternelle,286,2,ocr_non_valide,normale,,316
+Flammes,286,0,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,685
+Flèche Acide de Melf,"286,287",2,ocr_non_valide,normale,suite_plusieurs_pages,608
+Flèche de Foudre,287,3,ocr_non_valide,normale,,609
+Flétrissement,"287,288",4,ocr_non_valide,normale,suite_plusieurs_pages,636
+Fontaine de Lune,288,4,ocr_non_valide,normale,,633
+Force Fantasmagorique,288,2,ocr_non_valide,normale,,934
+Forme Gazeuse,"288,289",3,ocr_non_valide,normale,suite_plusieurs_pages,804
+Forme Éthérée,288,7,ocr_non_valide,normale,,1516
+Fou Rire de Tasha,289,1,ocr_non_valide,normale,,591
+Fouet Épineux,289,0,ocr_non_valide,normale,,628
+Fusion dans la Pierre,"290,291",3,ocr_non_valide,normale,suite_plusieurs_pages,1011
+Gardien de la Foi,291,4,ocr_non_valide,normale,,537
+Glissement de Terrain,291,6,ocr_non_valide,normale,,1135
+Globe d’invulnérabilité,291,6,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,572
+Graisse,292,1,ocr_non_valide,normale,,510
+Grêle D'Épines,292,1,ocr_non_valide,normale,,435
+Hâte,293,3,ocr_non_valide,normale,Sort récupéré manuellement depuis la page source | contrôle global du lot restant nécessaire.,573
+Hérissement de Projectiles,293,3,ocr_non_valide,normale,,472
+Identification,293,1,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,530
+Image Majeure,294,3,ocr_non_valide,normale,,1163
+Image Miroir,295,2,ocr_non_valide,normale,,782
+Image Projetée,295,7,ocr_non_valide,normale,,1046
+Image Silencieuse,295,1,ocr_non_valide,normale,,1045
+Imprécation,296,1,ocr_non_valide,normale,,411
+Interdiction,297,6,ocr_non_valide,normale,,1296
+Inversion de la Gravité,297,7,ocr_non_valide,normale,,733
+Invisibilité,297,2,ocr_non_valide,normale,,317
+Invisibilité Suprême,297,4,ocr_non_valide,normale,description_courte_a_confirmer,89
+Invocation D'Élémentaire,298,5,ocr_non_valide,normale,,1554
+Invocation D'Êtres Sylvestres,298,4,ocr_non_valide,normale,,727
+Invocation de Fée,"298,299",6,ocr_non_valide,normale,suite_plusieurs_pages,782
+Invocation de Volée,299,5,ocr_non_valide,normale,,433
+Lame de Feu,299,2,ocr_non_valide,normale,,669
+Lenteur,299,3,ocr_non_valide,normale,,761
+Lien de Protection,300,2,ocr_non_valide,normale,,564
+Lien Télépathique de Rary,300,5,ocr_non_valide,normale,,530
+Lueurs Féeriques,301,1,ocr_non_valide,normale,,476
+Lumière,301,0,ocr_non_valide,normale,,372
+Lumières Dansantes,302,0,ocr_non_valide,normale,,637
+Lévitation,299,2,ocr_non_valide,normale,,879
+Main du Mage,303,0,ocr_non_valide,normale,,681
+Mains Brûlantes,303,1,ocr_non_valide,normale,,375
+Malédiction,303,3,ocr_non_valide,normale,,1112
+Manoir Somptueux de Mordenkainen,304,7,ocr_non_valide,normale,,1694
+Marche sur L'Onde,"304,305",3,ocr_non_valide,normale,suite_plusieurs_pages,1075
+Mauvais Œil,305,6,ocr_non_valide,normale,,984
+Message,305,0,ocr_non_valide,normale,,442
+Messager Animal,305,2,ocr_non_valide,normale,,1058
+Mirage,307,7,ocr_non_valide,normale,,1192
+Modification de Mémoire,"307,308",5,ocr_non_valide,normale,suite_plusieurs_pages,2168
+Mot de Radiance,310,0,ocr_non_valide,normale,,231
+Mot de Retour,310,6,ocr_non_valide,normale,,468
+Motif Hypnotique,310,3,ocr_non_valide,normale,,525
+Mur D'Épines,"310,311",6,ocr_non_valide,normale,suite_plusieurs_pages,1231
+Mur de Feu,311,4,ocr_non_valide,normale,,942
+Mur de Force,311,5,ocr_non_valide,normale,,964
+Mur de Vent,"312,313",3,ocr_non_valide,normale,suite_plusieurs_pages,1023
+Mythes et Légendes,313,5,ocr_non_valide,normale,,694
+Nappe de Brouillard,313,1,ocr_non_valide,normale,,357
+Nuage Incendiaire,313,8,ocr_non_valide,normale,,789
+Nuée de Météores,314,9,ocr_non_valide,normale,,588
+Orbe Chromatique,314,1,ocr_non_valide,normale,,872
+Passage par les Arbres,"315,316",5,ocr_non_valide,normale,suite_plusieurs_pages,1103
+Passage sans Trace,316,2,ocr_non_valide,normale,,284
+Passe-Muraille,316,5,ocr_non_valide,normale,,533
+Pattes D'Araignée,316,2,ocr_non_valide,normale,,411
+Peau D'Écorce,316,2,ocr_non_valide,normale,,180
+Peau de Pierre,"316,317",4,ocr_non_valide,normale,suite_plusieurs_pages,118
+Perception Bestiale,317,2,ocr_non_valide,normale,,234
+Perturbations Synaptiques,317,5,ocr_non_valide,normale,,694
+Petite Hutte de Léomund,317,3,ocr_non_valide,normale,,962
+Portail Arcanique,"318,319",6,ocr_non_valide,normale,suite_plusieurs_pages,639
+Porte Dimensionnelle,319,4,ocr_non_valide,normale,,780
+Poussière D'Étoile,319,0,ocr_non_valide,normale,,451
+Prestidigitation,320,0,ocr_non_valide,normale,,939
+Projection Astrale,"320,321",9,ocr_non_valide,normale,suite_plusieurs_pages,1370
+Protection contre L'Énergie,321,3,ocr_non_valide,normale,,170
+Protection contre la Mort,321,4,ocr_non_valide,normale,,402
+Protection contre le Mal et le Bien,321,1,ocr_non_valide,normale,,421
+Protections et Sceaux,"321,322",6,ocr_non_valide,normale,suite_plusieurs_pages,2461
+Prémonition,320,9,ocr_non_valide,normale,,309
+Purification de la nourriture et de l’eau,322,1,ocr_non_valide,normale,,131
+Quête,"322,323",5,ocr_non_valide,normale,suite_plusieurs_pages,1106
+Rayon de Givre,323,0,ocr_non_valide,normale,,387
+Rayon de Lune,"323,324",2,ocr_non_valide,normale,suite_plusieurs_pages,545
+Rayon de Soleil,324,6,ocr_non_valide,normale,,655
+Rayon Empoisonné,323,1,ocr_non_valide,normale,,341
+Rayon Traçant,324,1,ocr_non_valide,normale,,383
+Repli Expéditif,325,1,ocr_non_valide,normale,,125
+Représailles Infernales,325,1,ocr_non_valide,normale,,328
+Respiration Aquatique,325,3,ocr_non_valide,normale,,215
+Restauration suprême,326,5,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,372
+Retour à la Vie,327,3,ocr_non_valide,normale,,238
+Régénération,324,7,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,229
+Réincarnation,324,5,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,689
+Réparation,"324,325",0,ocr_non_valide,normale,suite_plusieurs_pages,514
+Résistance,325,0,ocr_non_valide,normale,,377
+Sanctuaire,327,1,ocr_non_valide,normale,,456
+Sanctuaire Privé de Mordenkainen,"327,328",4,ocr_non_valide,normale,suite_plusieurs_pages,1028
+Saut,328,1,ocr_non_valide,normale,,395
+Scrutation,"328,329",5,ocr_non_valide,normale,suite_plusieurs_pages,1041
+Serviteur invisible,329,1,ocr_non_valide,normale,,988
+Silence,329,2,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire.,383
+Sommeil,330,1,ocr_non_valide,normale,,644
+Sphère Résiliente d Otiluke,"332,333",4,ocr_non_valide,normale,suite_plusieurs_pages,1404
+Stabilisation,333,0,ocr_non_valide,normale,,227
+Suggestion,333,2,ocr_non_valide,normale,,883
+Symbole,"333,334",7,ocr_non_valide,normale,suite_plusieurs_pages,3001
+Tempête de Grêle,335,4,ocr_non_valide,normale,,509
+Tempête Radieuse de Jallarzi,336,5,ocr_non_valide,normale,,971
+Tempête Vengeresse,"336,337",9,ocr_non_valide,normale,suite_plusieurs_pages,1381
+Thaumaturgie,339,0,ocr_non_valide,normale,,410
+Toile D'Araignée,"339,340",2,ocr_non_valide,normale,suite_plusieurs_pages,1291
+Trait de Feu,340,0,ocr_non_valide,normale,,389
+Trait Ensorcelé,340,1,ocr_non_valide,normale,,611
+Tremblement de Terre,"340,341",8,ocr_non_valide,normale,suite_plusieurs_pages,1141
+Télékinésie,334,5,ocr_non_valide,normale,,1702
+Télépathie,334,8,ocr_non_valide,normale,,626
+Téléportation,"334,335",7,ocr_non_valide,normale,suite_plusieurs_pages,3348
+Vague Destructrice,341,5,ocr_non_valide,normale,,895
+Vague tonnante,341,1,ocr_non_valide,normale,Sort récupéré manuellement depuis la page source | contrôle global du lot restant nécessaire.,601
+Vent Divin,341,6,ocr_non_valide,normale,,1100
+Verrou Magique,"341,342",2,ocr_non_valide,normale,Transcription reprise directement sur les scans du manuel | relecture exhaustive du lot encore nécessaire. | suite_plusieurs_pages,480
+Vision dans le Noir,342,2,ocr_non_valide,normale,,281
+Vision suprême,342,6,ocr_non_valide,normale,Sort récupéré manuellement depuis la page source | contrôle global du lot restant nécessaire. | description_courte_a_confirmer,111
+Voie Végétale,342,6,ocr_non_valide,normale,,402
+Voile Défensif,"342,343",0,ocr_non_valide,normale,suite_plusieurs_pages,697
+Vol,342,3,ocr_non_valide,normale,Sort récupéré manuellement depuis la page source | contrôle global du lot restant nécessaire.,253
+Éclair,280,3,ocr_non_valide,normale,,389
+Éclat du Soleil,280,8,ocr_non_valide,normale,,1920
+Épine Mentale,283,2,ocr_non_valide,normale,,646
+Éruption Ensorcelée,"283,284",0,ocr_non_valide,normale,suite_plusieurs_pages,796

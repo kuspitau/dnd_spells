@@ -1,0 +1,21 @@
+---
+nom: Arrêt du temps
+ecole: Transmutation
+niveau: 9
+classes:
+- Ensorceleur
+- Magicien
+incantation: action
+portee: personnelle
+composantes: V
+duree: instantanée
+pages_source:
+- 245
+statut: transcription_revue_visuellement
+---
+
+# Arrêt du temps
+
+Vous mettez un bref coup d'arrêt à l'écoulement du temps, pour tout le monde sauf vous-même. Le temps s'arrête pour les autres créatures tandis que vous prenez 1d4 + 1 tours d'affilée, durant lesquels vous pouvez entreprendre des actions et vous déplacer comme en temps normal.
+
+Ce sort prend fin si l'une des actions que vous entreprenez durant l'intervalle, ou l'un des effets créés, affecte une créature autre que vous ou un objet porté par quelqu'un d'autre que vous. Il se termine également si vous vous déplacez en un lieu distant de plus de 300 m de l'endroit où vous l'avez lancé.

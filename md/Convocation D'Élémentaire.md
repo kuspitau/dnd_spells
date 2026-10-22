@@ -1,0 +1,52 @@
+---
+nom: Convocation D'Élémentaire
+ecole: Invocation
+niveau: 4
+classes:
+- Druide
+- Magicien
+- Rôdeur
+incantation: À vérifier
+portee: 27 m
+composantes: V, S, M (de l'air, un caillou, des cendres et de l’eau dans un flacon incrusté d’or d’une
+  valeur minimale de 400 po)
+duree: Concentration, jusqu’à 1 heure
+pages_source:
+- 266
+- 267
+statut: ocr_non_valide
+---
+
+# Convocation D'Élémentaire
+
+Vous invoquez un esprit élémentaire. Il se manifeste en un espace inoccupé que vous voyez à portée en reprenant le profil de l'esprit élémentaire. À l’incantation du sort, choisissez un élément : Air, Eau, Feu ou Terre. La créature ressemble à un bipède enveloppé de l'élément choisi, qui détermine certains détails de son profil. La créature disparaît quand le sort prend fin, mais également si elle tombe à O point de vie.
+La créature constitue un allié pour vous et vos alliés. Au combat, la créature partage votre rang d’Initiative, mais elle joue son tour juste après vous. Elle obéit à vos instructions verbales (pas d'action requise de votre part). Sans ordre de votre part, elle entreprend l’action Esquive et consacre son déplacement à se mettre à l'abri du danger.
+Emplacement de niveau supérieur. Le niveau de l'emplacement s'applique chaque fois que le profil de jeu y fait référence.
+
+## Esprit élémentaire (encadré du manuel, transcription OCR à vérifier)
+
+ESPRIT ÉLÉMENTAIRE | Élémentaire de taille M, Neutre CA 11 + niveau du sort | Pv 50 + 10 par niveau du sort au-delà du 4° | Vitesse 12 m ; fouissement 12 m (Terre uniquement) ; vol 12 m (vol stationnaire) (Air uniquement) ; nage 12 m (eau uniquement) MOD JS MOD JS MOD JS For 18 +4 +4 Dex 15 +2 +2 Con17 43 #3 | INT 4 -3 -3 Sac 10 +0 40 CHa16 43 43) | Résistances acide (Eau uniquement) ; foudre et tonnerre (Air uniquement) ; perforants et tranchants (Terre uniquement) | Immunités feu (Feu uniquement), poison ; Empoisonné, qq Épuisement, Paralysé, Pétrifié | Sens Vision dans le noir 18 m, Perception passive 10 | Langues primordial, comprend les langues que vous connaissez me FP aucun (PX 0 ; BM égal à votre bonus de maîtrise) TRAITS ‘4
+État informe (Air, Eau et Feu uniquement). L'esprit 4 | peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm, sans même le considérer comme
+Terrain difficile. ACTIONS
+Attaques multiples. L'esprit effectue autant d'attaques que la moitié du niveau de ce sort (arrondir à l'inférieur). D
+Coup. Corps à corps : bonus égal à votre modificateur | d'attaque des sorts, allonge 1,50 m. Touché : 1d10 + 4 + niveau du sort dégâts contondants (Terre uniquement), de feu (Feu uniquement), de foudre (Air uniquement) ou de froid (Eau uniquement). POLAR ENGINE = 58 Le UN RÔDEUR LANCE CONVOCATION DE FÉE POUR INVOQUER
+UN ESPRIT FÉERIQUE FACE À UN MERROWEN MARAUDE.
+
+## Esprit draconique (encadré du manuel, transcription OCR à vérifier)
+
+ESPRIT DRACONIQUE 2901 1E LG CG VELIETE CA 14 + niveau du sort Pv 50 + 10 par niveau du sort au-delà du 5’ Vitesse 9 m, nage 9 m, vol 18 m For 19 +4 +4 DEx 14 +2 +42 CON]17 43-43 INT 10 +0 +0 Sac 14 +2 +2 CHA 14 4277 Résistances acide, feu, froid, foudre, poison Immunités Charmé, Effrayé, Empoisonné Sens Vision aveugle 9 m, Vision dans le noir 18 m, Perception passive 12 Langues draconique, comprend les langues que vous connaissez FP aucun (PX 0 ; BM égal à votre bonus de maîtrise) TRAITS
+Résistances partagées. Lorsque vous convoquez l'esprit, choisissez l’une de ses Résistances aux dégâts. Vous bénéficiez de la Résistance au type de dégâts choisi jusqu'à la fin du sort. ACTIONS
+Attaques multiples. L'esprit effectue autant d'attaques de Saignée que la moitié du niveau de ce sort (arrondir à l'inférieur) et il recourt à Souffle.
+Saignée. Corps à corps : bonus égal à votre modificateur d'attaque des sorts, allonge 3 m. Touché : 1d6 + 4 + niveau du sort dégâts perforants.
+Souffle. JS Dextérité : votre DD de sauvegarde des sorts, chaque créature dans un Cône de 9 m. Échec : 2d6 dégâts d'un type auquel l'esprit à la Résistance (vous choisissez | à l’incantation du sort). Réussite : 1/2 dégâts.
+
+---
+
+> **Transcription OCR non validée.** Les valeurs et passages complexes sont à contrôler sur les scans ci-dessous.
+
+**Anomalies détectées :** champ_absent:incantation; profil_de_creature_completude_a_controler
+
+## Pages sources
+
+- [Page 266](../source_pages/page_266.jpg)
+- [Page 267](../source_pages/page_267.jpg)

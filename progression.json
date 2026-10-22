@@ -1,0 +1,45 @@
+{
+  "origine": "Manuel des joueurs D&D 2024 FR, PDF fourni de 105 pages (numéros imprimés 239–343)",
+  "lots": [
+    {
+      "lot": 1,
+      "nouveaux_sorts": 15,
+      "pages_de_debut": [
+        242,
+        246
+      ],
+      "pages_de_suite": [
+        247
+      ],
+      "statut": "prototype_relecture_visuelle_non_certifiee"
+    },
+    {
+      "lot": 2,
+      "nouveaux_sorts": 14,
+      "pages_de_debut": [
+        247,
+        249
+      ],
+      "pages_de_suite": [
+        250
+      ],
+      "statut": "prototype_relecture_visuelle_non_certifiee"
+    },
+    {
+      "lot": "unique-extension",
+      "nouveaux_sorts": 324,
+      "pages_scans_incluses": [
+        239,
+        343
+      ],
+      "statut": "ocr_non_valide"
+    }
+  ],
+  "sorts_index": 353,
+  "sorts_preexistants": 29,
+  "sorts_nouveaux": 324,
+  "pages_souces_incluses": 105,
+  "fiches_avec_anomalies_prioritaires": 116,
+  "statut_global": "inventaire OCR non exhaustivement relu ; exhaustivité du chapitre non garantie",
+  "controle": "revue_prioritaire.csv, controle_extraction.csv, source_pages/"
+}

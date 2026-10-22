@@ -1,0 +1,5 @@
+PyMuPDF
+Pillow
+PyYAML
+markdown-it-py
+playwright

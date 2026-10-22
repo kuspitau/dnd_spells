@@ -1,0 +1,23 @@
+
+:root{--ink:#253042;--muted:#626c79;--accent:#5a466c;--rule:#d7d4ce;--soft:#f7f5f1;--paper:#fffefa}
+*{box-sizing:border-box} html{color-scheme:light} body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:#e9e6e0;line-height:1.48}
+.card{max-width:760px;margin:26px auto 40px;background:var(--paper);border:1px solid var(--rule);box-shadow:0 4px 26px #25232316;padding:38px 44px;border-radius:4px}
+.kicker{font-size:11px;letter-spacing:1.9px;font-weight:700;text-transform:uppercase;color:var(--accent);margin:0 0 9px}
+h1{font-family:Georgia,'Times New Roman',serif;font-size:34px;line-height:1.12;letter-spacing:-.5px;color:#272631;margin:0 0 6px;font-weight:600}
+.subtitle{font-family:Georgia,'Times New Roman',serif;font-size:15px;color:var(--muted);font-style:italic;margin-bottom:22px}
+.meta{border-block:1px solid var(--rule);padding:13px 0;display:grid;grid-template-columns:1fr 1fr;column-gap:24px;row-gap:10px;margin-bottom:25px}
+.meta-item{min-width:0}.meta-label{font-size:10px;letter-spacing:.9px;text-transform:uppercase;color:var(--muted);font-weight:700;margin-bottom:1px}
+.meta-value{font-size:14px;font-weight:500;overflow-wrap:anywhere}
+.body{font-family:Georgia,'Times New Roman',serif;font-size:16px;line-height:1.57;color:#292a2d}
+.body p{margin:0 0 14px}.body h2{font-size:21px;line-height:1.2;border-bottom:1px solid var(--rule);padding-bottom:7px;margin:28px 0 14px;color:var(--accent)}
+.body h3{font-family:Arial,Helvetica,sans-serif;font-size:13px;text-transform:uppercase;letter-spacing:1.15px;color:var(--accent);margin:22px 0 8px}
+.body strong{font-weight:700}.body em{font-style:italic}
+.body table{width:100%;border-collapse:collapse;font-family:Arial,Helvetica,sans-serif;font-size:13px;margin:16px 0 24px}
+.body th{text-align:left;background:#eeeaf0;color:#40394b;padding:9px 11px;border-bottom:2px solid #b5a7bf}
+.body td{padding:7px 11px;border-bottom:1px solid #dedbd8}.body tr:nth-child(even) td{background:#f5f2f1}.body td:not(:first-child):where(.body table td){text-align:left}
+.art{margin:22px 0 25px}.art img{width:100%;max-height:230px;object-fit:cover;object-position:center;border-radius:3px;display:block}.art figcaption{font:italic 12px Georgia,serif;color:var(--muted);padding-top:7px}
+.footer{border-top:1px solid var(--rule);margin-top:28px;padding-top:12px;font:11px Arial,sans-serif;color:var(--muted);display:flex;justify-content:space-between}
+@media screen and (max-width:660px){.card{margin:0;box-shadow:none;padding:27px 22px;border:0}.meta{column-gap:12px}.body{font-size:15px}h1{font-size:29px}}
+@media print{@page{size:A4;margin:13mm 13mm}body{background:#fff}.card{box-shadow:none;border:0;padding:0;margin:0;max-width:none}.art img{max-height:105px}.body{font-size:11pt}.meta{margin-bottom:15px}.body p{margin-bottom:10px}.body h2,.body h3,.body table,.art{break-inside:avoid}.body h2,.body h3{break-after:avoid}.card[data-spell="appel-de-destrier"] .body h2{break-before:page}}
+
+.source-links{font:12px Arial,sans-serif;color:#5f5867;margin-top:22px}.source-links a{color:#5a466c;margin-right:10px}
